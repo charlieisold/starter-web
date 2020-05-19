@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. BLAH BLAH
 You just kinda do it you know?
 
 ## How to contribute
+
+### Copyright
+
+Pretend this is copyrighted
