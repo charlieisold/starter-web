@@ -16,6 +16,8 @@ You just kinda do it you know?
 
 ## How to contribute
 
+Please fork this repository and then do stuff I don't care
+
 ### Copyright
 
 Pretend this is copyrighted
